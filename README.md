@@ -18,6 +18,8 @@ PTP is eager to implement a modern Fuel Management System that will help them to
 ## Dataset
 We have provided a dataset of images for participants to train and test their models. The dataset is stored in the data directory of the repository. It contains images of various equipment available in PTP. Participants may refer the image of each equipment based on the folder name.
 
+_29 March 2023 : CSV File containing the dummy dataset, sample of employee ID, and sample of employee ID format stored in the data directory._
+
 ## Getting Started
 To get started with the hackathon, you will need to clone this repository to your local machine using the following command:
 
